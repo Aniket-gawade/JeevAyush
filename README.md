@@ -26,7 +26,7 @@
 <p align="center">
 <img src="/Hospital 1.jpg" width="190" />
   <img src="/hospital_registration.png" width="190" />
-  <img src="/Post registration msg.jpg" width="190" />
+  <!---<img src="/Post registration msg.jpg" width="190" />-->
   <img src="/Hospital after sign in.jpg" width="190" />
   <img src="/user_info.png" width="190" />
   
